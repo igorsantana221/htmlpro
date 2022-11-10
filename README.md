@@ -1,2 +1,2 @@
-# htmlpro
+# HTMLPRO - PAGINA RESPONSIVA CRIADA PARA ESTUDO.
 https://htmlpro.web.app/
